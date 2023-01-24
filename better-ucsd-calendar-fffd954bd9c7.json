@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "better-ucsd-calendar",
+  "private_key_id": "fffd954bd9c7282461e30db138b5ef450ea304ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBfUWA1JNLvs2E\ntmKC2qgkCopmP5CVnhJPk/Nt5TLsZxr803I164toioT5uw2231m/KEp7mejJOYiM\nKOWqOw//W8igwwwMtcKMimwZgDK1OXXTYVAAseVTb1Oxj9JVcNlOFpRqDBcQocA7\nalQkVzYiYq5XC3St0RHgVhyKY95pzOxH82F1pT2lGTEWMOZLaJCxvO54o9BWHwHd\nriymOJaij1tkAVX+lPdS2sTpAlKqzLXRG0pA+hXdTrMj1YAGikwAdZJWFmshEJfe\nu/Id0rp3Q8KieR+MI4oLBZr2MMLj0FXR1PQJD7RLTlK5TiXAdDEWN1ThHh8CNx+/\nKtEmDO9bAgMBAAECggEADT6yo+RpUzvaPH8+2q92Td+wcUCURVmoh6AC5hi7CRAj\nYP+ZOtp6R/Hrf/jVy7Kzi9bwBx2WOZtIBWgrSIetS0RDxWJBdrR4GKZesTD9LgcJ\nhMQnKNUEpyOtk/ynX+GCTpeHGbdLWoBOdQLAHcWGiok8xYkFBLAu5a9sJrqgl/3C\nBR+p5a5TYU4w0d2o/Odm/YcKnnkaJ/QKBrc0N9Oxs0LlHjOzlOtr1ioorbJmuhZ5\nu0Pbg3qEgtm3KIT057rBPw7vE4meJvTkIS4N+rZCt5SxBwKpJb60DmcwhXF2BC5O\npRXotz9QtKdqZMwzlEUEwpEdb/irDyClQ5KpiuvPMQKBgQDpOwkXQdbvhgzYGDRe\n7LUXa620X2W/oMvyPPp91l8KVhuooOB3CvTC/6EutJGuo51XSFS9NiPvmJwK/tV4\nHSp+bvMTGeIT3xj0WP96lc1aHAuWSDcF++CqqqLXIhSaZeC4PD+gFJ4AEozvpjHJ\nkf6crdXOfeEWNIjMihlu6QO6CQKBgQDUYQLcQTzHAO58EmBjNHOXTgA+ucSEfN2f\n7vgPgrdBvdOljVbAZgEloz18yRBlOtm89KCAgNqxPlnRuw9nCyn+Pj5GcO0V9Ipk\nB3F8v7aL82WbZ4yPKRNN1a8Hiee2i1yeFj3/TwxlPFIZKi0gdFEo7EwF5c5UJp1g\npobKs1UHQwKBgQDiD0iWdEiCTSnx4jQQtdoo40Owiq6yeIZ1OsmIYtonyKJyZcxr\nVgE7aE6wWHDEFu4QhZks9GcMepz0w1/hVlOzzJJqNzI8FIe5fvHRvZUW/Av3E/PR\nJvvyMAY6A1x48rpHmI4K+TDT3SchubKUL5/b+Vo9FSGwRic6KbjRGaV1EQKBgGPc\nuduXUVzBs2Hjwi7jmvaqVrMn5p/lltB9LWcdr83Z1Isjyobtb9yixWbHpE31Piz7\nWf0SmcJ97v4PV068kSJbYiz9LH4GXoxqc5KVEuD7setA5XbreYg/0e1ZivrqzMII\n8135bXqswm3SxyVbjE4Rzi13wW0QOzAXHYpyiKjBAoGAWy4IgipoK//LqTQUojPc\nbKeJjDlfXwqslb9wKj64r5t4u8ByTetBkjzRMCHqj/l4B3HzJavtuVTwFwHMq+38\nObvaB05lZ9vXGGBW2dKLBMjaJWmtMVf5nHZZdMq6whac/8gdgbA86j36a0fZgfXy\nGdqGVBH/YIKF2/KTm1GQbj0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ethan-personal-projects@better-ucsd-calendar.iam.gserviceaccount.com",
+  "client_id": "113802820290923048583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ethan-personal-projects%40better-ucsd-calendar.iam.gserviceaccount.com"
+}
